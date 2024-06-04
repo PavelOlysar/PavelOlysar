@@ -1,11 +1,19 @@
 ## Hi, I am Pavel "Payaa" Olyšar 👋
-I prefer 
-I'm currently working on .
+dev
 
-I study: 
+### What I do?
+I am working on:
+-  personal web portfolio
+-  other cool projects
+
+I study rn: 
+- Typescript
+- Nuxt, Vue
+- Tailwind CSS
 
 ### My stack:
 - HTML/CSS, Javascript
+- SCSS
 
 ### About me:
 - How to reach me: [Email](olysarp@gmail.com)
