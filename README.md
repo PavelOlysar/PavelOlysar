@@ -1,4 +1,4 @@
-## Hi, I am Pavel "Payaa" Olyšar 👋
+## Hi, I am Pavel "Payaa" Olysar 👋
 dev
 
 ### What I do?
