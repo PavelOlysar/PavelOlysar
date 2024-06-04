@@ -1,4 +1,4 @@
-## Hi, I am Payaa 👋
+## Hi, I am Pavel "Payaa" Olyšar 👋
 I prefer 
 I'm currently working on .
 
