@@ -16,7 +16,7 @@ I study rn:
 - SCSS
 
 ### About me:
-- How to reach me: [Email](olysarp@gmail.com)
+- How to reach me: olysarp@gmail.com
   
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=PavelOlysar&show_icons=true&theme=algolia">
