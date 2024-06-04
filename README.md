@@ -20,5 +20,5 @@ I study rn:
   
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=PavelOlysar&show_icons=true&theme=algolia">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PavelOlysar&layout=compact&theme=algolia" />
+  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PavelOlysar&layout=compact&theme=algolia" />
 </div>
