@@ -2,14 +2,13 @@
 dev
 
 ### What I do?
-I am working on:
+I am rn working on:
 -  personal web portfolio
--  other cool projects
+-  databases showcase website
 
 I study rn: 
 - Typescript
 - Nuxt, Vue
-- Tailwind CSS
 
 ### My stack:
 - HTML/CSS, Javascript
