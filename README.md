@@ -8,7 +8,7 @@ I am rn working on:
 
 I study rn: 
 - Typescript
-- Nuxt, Vue
+- Nuxt, Vue, MongoDB, SQL
 
 ### My stack:
 - HTML/CSS, Javascript
