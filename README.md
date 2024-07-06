@@ -7,11 +7,11 @@ I am rn working on:
 -  databases showcase website
 
 I study rn: 
-- Typescript
-- Nuxt, Vue, MongoDB, SQL
+- Typescript, Rust
+- Vue, MongoDB
 
 ### My stack:
-- HTML/CSS, Javascript
+- HTML/CSS
 - SCSS
 
 ### About me:
