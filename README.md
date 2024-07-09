@@ -8,7 +8,7 @@ I am rn working on:
 
 I study rn: 
 - Typescript, Rust
-- Vue, MongoDB
+- Vue
 
 ### My stack:
 - HTML/CSS
