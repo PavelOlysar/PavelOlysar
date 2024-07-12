@@ -4,7 +4,7 @@ dev
 ### What I do?
 I am rn working on:
 -  personal web portfolio
--  databases showcase website
+-  3d portfolio website
 
 I study rn: 
 - Typescript, Rust
