@@ -1,5 +1,5 @@
 ## Hi, I am Pavel "Payaa" Olysar 👋
-dev
+10x dev
 
 ### What I do?
 I am rn working on:
@@ -7,12 +7,12 @@ I am rn working on:
 -  3d portfolio website
 
 I study rn: 
-- Typescript, Rust
+- Typescript, Python
 - Vue
+- MongoDB, PostgreSQL
 
 ### My stack:
-- HTML/CSS
-- SCSS
+- HTML/CSS, SCSS
 
 ### About me:
 - How to reach me: olysarp@gmail.com
