@@ -1,5 +1,5 @@
 ## Hi, I am Pavel "Payaa" Olysar 👋
-10x dev
+dev
 
 ### What I do?
 I am rn working on:
