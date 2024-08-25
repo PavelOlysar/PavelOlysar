@@ -10,6 +10,7 @@ I study rn:
 - Typescript, Python
 - Vue
 - MongoDB, PostgreSQL
+- Vim, Neovim
 
 ### My stack:
 - HTML/CSS, SCSS
@@ -17,8 +18,3 @@ I study rn:
 ### About me:
 - How to reach me: olysarp@gmail.com
 - Unfinished website portfolio: https://pavelolysartest.netlify.app/
-  
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=PavelOlysar&show_icons=true&theme=algolia">
-  ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelOlysar&layout=compact)
-</div>
