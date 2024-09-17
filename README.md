@@ -15,6 +15,11 @@ I study rn:
 ### My stack:
 - HTML/CSS, SCSS
 
-### About me:
+### About me
+
+- ...
+
+### Contact
+
 - How to reach me: olysarp@gmail.com
-- Unfinished website portfolio: website-portfolio-tawny-nu.vercel.app
+- Website portfolio: 
