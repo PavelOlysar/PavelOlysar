@@ -1,5 +1,6 @@
 ## Hi, I am Pavel "Payaa" Olysar 👋
-dev
+
+Studying to become Backend Developer
 
 ### What I do?
 I am rn working on:
