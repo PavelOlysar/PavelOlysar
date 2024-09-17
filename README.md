@@ -7,10 +7,9 @@ I am rn working on:
 -  3d portfolio website
 
 I study rn: 
-- Typescript, Python
+- JavaScript, Python
 - Vue
 - MongoDB, PostgreSQL
-- Vim, Neovim
 
 ### My stack:
 - HTML/CSS, SCSS
