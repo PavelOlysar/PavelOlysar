@@ -4,7 +4,7 @@ dev
 ### What I do?
 I am rn working on:
 -  personal web portfolio
--  3d portfolio website
+-  simple web crawler
 
 I study rn: 
 - JavaScript, Python
