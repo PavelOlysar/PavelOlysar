@@ -17,4 +17,4 @@ I study rn:
 
 ### About me:
 - How to reach me: olysarp@gmail.com
-- Unfinished website portfolio: https://pavelolysartest.netlify.app/
+- Unfinished website portfolio: website-portfolio-tawny-nu.vercel.app
