@@ -8,8 +8,8 @@ I am rn working on:
 -  simple web crawler
 
 I study rn: 
-- JavaScript, Python
-- Vue
+- JavaScript, PHP
+- Vue, React
 - MongoDB, PostgreSQL
 
 ### My stack:
