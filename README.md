@@ -8,9 +8,9 @@ I am rn working on:
 -  simple web crawler
 
 I study rn: 
-- JavaScript, PHP
-- Vue, React
-- MongoDB, PostgreSQL
+- JavaScript, TypeScript
+- Angular
+- PostgreSQL
 
 ### My stack:
 - HTML/CSS, SCSS
