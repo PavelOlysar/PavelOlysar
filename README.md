@@ -5,15 +5,16 @@ Studying to become Backend Developer
 ### What I do?
 I am rn working on:
 -  personal web portfolio
--  simple web crawler
+-  habit tracker web app and mobile app
 
 I study rn: 
-- JavaScript, TypeScript
+- Go, Kotlin
 - Angular
-- PostgreSQL
+- MongoDB, PostgreSQL
 
 ### My stack:
 - HTML/CSS, SCSS
+- JavaScript, TypeScript
 
 ### About me
 
