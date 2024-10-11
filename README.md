@@ -8,13 +8,12 @@ I am rn working on:
 -  habit tracker web app and mobile app
 
 I study rn: 
-- Go, Kotlin
+- Go, JavaScript, TypeScript
 - Angular
 - MongoDB, PostgreSQL
 
 ### My stack:
 - HTML/CSS, SCSS
-- JavaScript, TypeScript
 
 ### About me
 
