@@ -1,22 +1,25 @@
-## Hi, I am Pavel "Payaa" Olysar 👋
+## Hi, I’m Pavel "Payaa" Olysar 👋  
+### Part-Time Web Developer
 
-Studying Webs
+---
 
-### What I do?
-I am rn working on:
--  
+### 🔧 What I Do  
+I’m currently:  
+- Building some websites...
 
-I study rn: 
-- 
+---
 
-### My stack:
-- 
+### 🛠️ My Stack  
+- **Markup & Styling**: HTML, XML, CSS, SCSS, Tailwind CSS  
+- **Programming**: JavaScript (JS), TypeScript (TS)  
+- **Frameworks**: Vue, Nuxt  
+- **Backend**: Node.js, Bun, Express, Hono
+- **Databases**: MongoDB
 
-### About me
+💡 Always curious to learn and adopt new technologies!  
 
-- ...
+---
 
-### Contact
-
-- How to reach me: olysarp@gmail.com
-- Website portfolio: Will be added soon!!!
+### 📬 Let’s Connect  
+- **Email**: [olysarp@gmail.com](mailto:olysarp@gmail.com)  
+- **Portfolio**: Coming soon—stay tuned!  
