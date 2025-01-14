@@ -5,7 +5,7 @@
 
 ### 🔧 What I Do  
 I’m currently:  
-- Building some websites...
+- Building some webs...
 
 ---
 
