@@ -12,9 +12,9 @@ I’m currently:
 ### 🛠️ My Stack  
 - **Markup & Styling**: HTML, XML, CSS, SCSS, Tailwind CSS  
 - **Programming**: JavaScript (JS), TypeScript (TS)  
-- **Frameworks**: Vue, Nuxt  
-- **Backend**: Node.js, Bun, Express, Hono
-- **Databases**: MongoDB
+- **Frameworks**: Vue, Nuxt, React
+- **Backend**: Node.js, Bun, Hono, NestJS
+- **Databases**: MongoDB, SQLite, PostgreSQL
 
 💡 Always curious to learn and adopt new technologies!  
 
