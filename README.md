@@ -1,5 +1,5 @@
 ## Hi, I’m Pavel "Payaa" Olysar 👋  
-### Part-Time Web Developer
+### Web Dev
 
 ---
 
