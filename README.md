@@ -1,11 +1,14 @@
 ## Hi, I’m Pavel "Payaa" Olysar 👋  
-### Web Dev
+### Web Dev & Designer | Student
+
+> "Be a yardstick of quality. Some people aren’t used to an environment where excellence is expected." – Steve Jobs
 
 ---
 
 ### 🔧 What I Do  
 I’m currently:  
 - Building some webs...
+- Studying at [Smíchov secondary technical school](https://www.ssps.cz/)
 
 ---
 
